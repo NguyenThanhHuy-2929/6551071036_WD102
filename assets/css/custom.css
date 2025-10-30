@@ -1,0 +1,25 @@
+.cau2 {
+  display: flex;
+  margin-bottom: 50px;
+}
+.cau2 .text h4 {
+  text-align: center;
+}
+.cau2 .text .tbold {
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
+.cau2 .text {
+  gap: 40px;
+  margin-top: 20px;
+}
+.cau2 .text p {
+  text-align: center;
+}
+.btc3 {
+  color: white;
+  background-color: red;
+  margin: auto;
+  margin-bottom: 50px;
+}
